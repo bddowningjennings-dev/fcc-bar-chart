@@ -1,13 +1,13 @@
 {
-  "main.css": "/fcc-bar-graph/static/css/main.3e60ab94.chunk.css",
-  "main.js": "/fcc-bar-graph/static/js/main.0265dc1b.chunk.js",
-  "main.js.map": "/fcc-bar-graph/static/js/main.0265dc1b.chunk.js.map",
-  "static/js/1.c81a9cd2.chunk.js": "/fcc-bar-graph/static/js/1.c81a9cd2.chunk.js",
-  "static/js/1.c81a9cd2.chunk.js.map": "/fcc-bar-graph/static/js/1.c81a9cd2.chunk.js.map",
-  "runtime~main.js": "/fcc-bar-graph/static/js/runtime~main.f3f05439.js",
-  "runtime~main.js.map": "/fcc-bar-graph/static/js/runtime~main.f3f05439.js.map",
-  "static/css/main.3e60ab94.chunk.css.map": "/fcc-bar-graph/static/css/main.3e60ab94.chunk.css.map",
-  "index.html": "/fcc-bar-graph/index.html",
-  "precache-manifest.0ce45f17370dc3109268843ae7035730.js": "/fcc-bar-graph/precache-manifest.0ce45f17370dc3109268843ae7035730.js",
-  "service-worker.js": "/fcc-bar-graph/service-worker.js"
+  "main.css": "/fcc-bar-chart/static/css/main.3e60ab94.chunk.css",
+  "main.js": "/fcc-bar-chart/static/js/main.3b116cc3.chunk.js",
+  "main.js.map": "/fcc-bar-chart/static/js/main.3b116cc3.chunk.js.map",
+  "static/js/1.c81a9cd2.chunk.js": "/fcc-bar-chart/static/js/1.c81a9cd2.chunk.js",
+  "static/js/1.c81a9cd2.chunk.js.map": "/fcc-bar-chart/static/js/1.c81a9cd2.chunk.js.map",
+  "runtime~main.js": "/fcc-bar-chart/static/js/runtime~main.293dec85.js",
+  "runtime~main.js.map": "/fcc-bar-chart/static/js/runtime~main.293dec85.js.map",
+  "static/css/main.3e60ab94.chunk.css.map": "/fcc-bar-chart/static/css/main.3e60ab94.chunk.css.map",
+  "index.html": "/fcc-bar-chart/index.html",
+  "precache-manifest.7d2bd969fbc32e113c0bbd9b6824634a.js": "/fcc-bar-chart/precache-manifest.7d2bd969fbc32e113c0bbd9b6824634a.js",
+  "service-worker.js": "/fcc-bar-chart/service-worker.js"
 }
